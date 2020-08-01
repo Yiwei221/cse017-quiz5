@@ -4,6 +4,11 @@ Consider the Depth First Search graph algorithm versus the Breadth First Search 
 They are very similar, except one uses a stack and the other uses a queue. How does the choice of datastructure 
 in the affect the execution of the respective algorithms?
 
+answer 1:
+In Breadth First Search algorithm, one vertex is selected at a time when it is visited and marked
+then its adjacent are visited and stored in the queue, which makes it slower than the Depth First Search graph algorithm.
+Also, it makes Breadth First Search algorithm is more suitable for searching solutions which are closer to the given one.
+
 Question 2
 
 What is the difference between a tree and a graph?
