@@ -13,6 +13,8 @@ Question 2
 
 What is the difference between a tree and a graph?
 
+A tree does not have a cycle, but a graph does. A graph contains nodes and edges, but a tree only has nodes.
+
 Question 3
 
 In the circular queue datastructure we have front and back variables. 
