@@ -20,6 +20,9 @@ Question 3
 In the circular queue datastructure we have front and back variables. 
 What is their purpose? Why do we design the queue this way?
 
+Front points to the beginning of the queue and Rear points to the end of the queue. Since queue has the feature "First in First out", we need front and back to
+keep track of the front and back variable to push or pull.
+
 Question 4
 
 Encode the following graph as an adjacency matrix
