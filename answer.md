@@ -27,7 +27,7 @@ Question 4
 
 Encode the following graph as an adjacency matrix
 
-Graph
+
 
 Question 5
 
