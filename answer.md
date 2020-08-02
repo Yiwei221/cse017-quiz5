@@ -34,3 +34,5 @@ Question 5
 For the graph in the previous question, write out the steps of Dijkstra's Algorithm 
 to find the shortest path between Node 1 and Node 11. For each step, write down 
 the Unvisited set U, the Visited set V, and the current tenative distance vector D.
+
+see the pdf question 5
